@@ -1,0 +1,21 @@
+body {
+  background-image: url(https://i.postimg.cc/6Qt8LvYZ/4413db979f336606a3a90926669a6c6e.jpg);
+  background-repeat: no repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cartilla {
+  background-color: hsla(255, 79%, 18%, 0.6);
+  width: 380px;
+  height: 600px;
+  border: solid red 2px;
+}
+
+.img-principal {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
